@@ -1,0 +1,17 @@
+body {
+    background: url("https://www.publicdomainpictures.net/pictures/150000/nahled/blue-background-1455551362N6S.jpg");
+}
+h1 {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: lightgreen;
+    border: 15px dotted green;
+}
+h2 { 
+    font-family: 'Merriweather', serif;
+    background-color: lightgreen;
+}
+img {
+    width: 350px;
+}
+    
